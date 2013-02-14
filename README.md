@@ -1,6 +1,6 @@
 Stuff modified .beam code into a running couchbase node...
 
-.jar in downloads section
+.jar at <http://s3.crate.im/funjector.jar>
 
 Usage:
 
